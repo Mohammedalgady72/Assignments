@@ -49,7 +49,7 @@ public class Question12 {
             position++;
         }
 
-        System.out.println("\n" + val + " غير موجود في القائـمة");
+        System.out.println("\n" + val + " غير موجود في القائمة");
         return false;
     }
 

@@ -47,7 +47,7 @@ public class Question8 {
             index++;
         }
 
-        System.out.println("\nلم يتم العثور على القيـمة " + val);
+        System.out.println("\nلم يتم العثور على القيمة " + val);
         return -1; // إذا لم يوجد
     }
 

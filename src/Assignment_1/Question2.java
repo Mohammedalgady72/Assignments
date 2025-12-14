@@ -6,7 +6,7 @@ public class Question2 {
 
     public int[] removeRandom(int[] arr) {
         if (arr.length == 0) {
-            System.out.println("المصفوفة فـارغة!");
+            System.out.println("المصفوفة فارغة!");
             return arr;
         }
 

@@ -34,7 +34,7 @@ public class Question6 {
             return;
         }
 
-        System.out.println("التدوير بمـقدار: " + k + " موقع");
+        System.out.println("التدوير بمقدار: " + k + " موقع");
 
         int length = 1;
         Node last = head;

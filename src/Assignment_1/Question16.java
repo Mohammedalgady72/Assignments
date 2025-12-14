@@ -115,7 +115,7 @@ public class Question16 {
             return;
         }
 
-        System.out.print("عناصر القـائمة (" + countNodes(head) + " عناصر): ");
+        System.out.print("عناصر القائمة (" + countNodes(head) + " عناصر): ");
 
         Node temp = head;
         do {

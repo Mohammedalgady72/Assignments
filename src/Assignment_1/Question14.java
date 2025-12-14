@@ -15,7 +15,7 @@ public class Question14 {
 
     Node head;
 
-    // إضـافة عنصر
+    // إضافة عنصر
     public void add(int val) {
         Node n = new Node(val);
 

@@ -4,7 +4,7 @@ package Assignment_1;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("=== بداية البرنامـج ===");
+        System.out.println("=== بداية البرنامج ===");
         System.out.println("الطالب:محمد يحيى القاضي -التخصص-الامن السبراني- المجموعة: G4\n");
 
         // اختبار السؤال 2
