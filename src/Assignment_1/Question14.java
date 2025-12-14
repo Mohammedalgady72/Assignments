@@ -1,6 +1,6 @@
 package Assignment_1;
 
-// السؤال 14: حذف من موقع محدد في القائمة الدائرية
+// السؤال 14: حذف من موقع محدد في القائمة الدائـرية
 public class Question14 {
 
     class Node {
@@ -15,7 +15,7 @@ public class Question14 {
 
     Node head;
 
-    // إضافة عنصر
+    // إضـافة عنصر
     public void add(int val) {
         Node n = new Node(val);
 

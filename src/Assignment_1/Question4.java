@@ -21,7 +21,7 @@ public class Question4 {
             end--;
         }
 
-        System.out.print("العناصر بعد العكس: ");
+        System.out.print("العناصر بـعد العكس: ");
         for (int num : arr) {
             System.out.print(num + " ");
         }

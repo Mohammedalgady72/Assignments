@@ -63,7 +63,7 @@ public class Question10 {
             temp = temp.next;
         }
 
-        System.out.println("تم حذف " + removedCount + " عنصر مكرر");
+        System.out.println("تم حـذف " + removedCount + " عنصر مكرر");
     }
 
     // طباعة القائمة
